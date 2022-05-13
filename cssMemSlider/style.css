@@ -1,0 +1,45 @@
+@import url('./normalize.css');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #292929;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  color: #f0f2f3;
+  font-size: 1.5rem;
+}
+.slider-body {
+  border: .5rem solid #697278;
+  height: 30rem;
+  width: 25.5rem;
+}
+.slider {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-rows: 85% 15%;
+}
+.slides {
+  height: 100%;
+  width: 100%;
+}
+.slides-info {
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 2% 0 2%;
+}
+.text {
+
+}
+.navigation {
+
+}
