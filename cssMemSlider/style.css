@@ -34,6 +34,8 @@ body {
 }
 .slide {
   width: 50%;
+  transition: ease .5s;
+
 }
 .slide img {
   height: 89%;
@@ -66,6 +68,7 @@ input[name="radio"] {
   border: 2px solid rgb(13, 100, 194);
   background-color: rgb(13, 100, 194);
   cursor: pointer;
+  transition: 0.3s;
 }
 .control:hover {
   border-color: #f0f2f3;
