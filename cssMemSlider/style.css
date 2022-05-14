@@ -116,6 +116,5 @@ input[name="radio"] {
   .text {
     display: block;
     transform: translateY(150%);
-    text-align: center;
   }
 }
