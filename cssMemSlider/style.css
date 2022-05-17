@@ -80,7 +80,7 @@ input[name="radio"] {
   width: 0.8rem;
   margin-right: 2.2%;
   border-radius: 50%;
-  border: 2px solid rgb(13, 100, 194);
+  border: 0.125rem solid rgb(13, 100, 194);
   background-color: rgb(13, 100, 194);
   cursor: pointer;
   transition: 0.3s;
